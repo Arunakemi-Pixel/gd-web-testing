@@ -1,4 +1,4 @@
-let proyects = ["pacman","beauty_fest","philip","kc","pedialyte","aderogyl"];
+let proyects = ["pacman"];
 proyects.forEach(p => {
     let a = document.createElement("a")
     let img = document.createElement("img")
